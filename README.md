@@ -79,6 +79,15 @@ This skill navigates three tensions:
 
 3. **Efficiency vs. safety.** Append is slower but safe. Rewrite is faster but destructive. Default is always the safe path.
 
+## Related projects
+
+Other open-source tools by the same author:
+
+- [critical-second-pass](https://github.com/FlyingFSR/critical-second-pass) — a
+  Codex skill for an honest, harder second read of a plan, diff, or draft.
+- [Friday](https://github.com/FlyingFSR/friday) — local-first, on-device voice
+  input for macOS (whisper.cpp, no cloud).
+
 ## License
 
 MIT
